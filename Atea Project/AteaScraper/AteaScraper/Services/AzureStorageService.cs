@@ -2,6 +2,7 @@
 using Azure;
 using Azure.Data.Tables;
 using Azure.Storage.Blobs;
+using Microsoft.Extensions.Configuration;
 using System;
 using System.IO;
 using System.Threading.Tasks;
@@ -13,10 +14,19 @@ namespace AteaScraper.Services
         private readonly TableServiceClient _tableServiceClient;
         private readonly BlobContainerClient _blobContainerClient;
 
-        public AzureStorageService(TableServiceClient tableServiceClient, BlobContainerClient blobContainerClient)
+        public AzureStorageService(IConfiguration configuration,TableServiceClient tableServiceClient, BlobContainerClient blobContainerClient)
         {
             _tableServiceClient = tableServiceClient;
             _blobContainerClient = blobContainerClient;
+            // Get connection string and container name from configuration
+            string connectionString = "UseDevelopmentStorage = true";
+            string containerName = "atea";
+
+            // Initialize TableServiceClient
+            _tableServiceClient = new TableServiceClient(connectionString);
+
+            // Initialize BlobContainerClient
+            _blobContainerClient = new BlobContainerClient(connectionString, containerName);
         }
         public async Task<bool> AddEntityToTableAsync(string partitionKey, string rowKey, bool isSuccess, Guid requestKey)
         {

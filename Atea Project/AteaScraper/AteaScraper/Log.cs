@@ -10,6 +10,8 @@ using Newtonsoft.Json;
 using Azure.Data.Tables;
 using Microsoft.WindowsAzure.Storage.Table;
 using TableEntity = Azure.Data.Tables.TableEntity;
+using AteaScraper.Mediator;
+using AteaScraper.Logging;
 
 namespace AteaScraper
 {
@@ -18,33 +20,18 @@ namespace AteaScraper
         [FunctionName("Log")]
         public static async Task<IActionResult> Run(
             [HttpTrigger(AuthorizationLevel.Function, "get", Route = null)] HttpRequest req,
-            ILogger log)
+            ILogger log,
+            IMediator mediator)
         {
             log.LogInformation("C# HTTP trigger function processed a request.");
 
-            // Get query parameters for time period (from/to)
-            string fromParam = req.Query["from"];
-            string toParam = req.Query["to"];
-
-            // Parse query parameters
-            DateTime from, to;
-            if (!DateTime.TryParse(fromParam, out from) || !DateTime.TryParse(toParam, out to))
+            var request = new LogQueryRequest
             {
-                return new BadRequestResult();
-            }
-            // Getting the Azure Table
-            var serviceClient = new TableServiceClient("UseDevelopmentStorage=true");
-            var table = serviceClient.GetTableClient("atea");
-            await table.CreateIfNotExistsAsync();
-            // The From-To Query
-            string filter = TableQuery.CombineFilters(
-                    TableQuery.GenerateFilterConditionForDate("Timestamp", QueryComparisons.GreaterThanOrEqual, from),
-                    TableOperators.And,
-                    TableQuery.GenerateFilterConditionForDate("Timestamp", QueryComparisons.LessThanOrEqual, to));
-            //Gotten results
-            var result = table.Query<TableEntity>(filter);
-            //Return results
-            return new OkObjectResult(result); 
+                From = req.Query["from"],
+                To = req.Query["to"]
+            };
+
+            return (IActionResult)await mediator.Send(request);
         }
     }
 }

@@ -22,22 +22,23 @@ namespace AteaScraper
         {
             var response = await _httpClientService.GetAsync("https://api.publicapis.org/random?auth=null");
 
+            var key = Guid.NewGuid().ToString();
+            var requestKey = Guid.NewGuid(); // Generate a new GUID for the request
+
+            await _azureStorageService.AddEntityToTableAsync("", key, true, requestKey);
+
             if (response.IsSuccessStatusCode)
             {
                 var responseStream = await response.Content.ReadAsStreamAsync();
-                var key = Guid.NewGuid().ToString();
-                var requestKey = Guid.NewGuid(); // Generate a new GUID for the request
-
-                await _azureStorageService.AddEntityToTableAsync("", key, true, requestKey);
+                
                 await _azureStorageService.UploadBlobAsync($"{key}.json", responseStream);
             }
             else
             {
-                // Handle unsuccessful HTTP request
                 log.LogError("HTTP request failed.");
             }
 
-            // log.LogInformation($"C# Timer trigger function executed at: {DateTime.Now}");
+            log.LogInformation($"C# Timer trigger function executed at: {DateTime.Now}");
         }
     }
 }

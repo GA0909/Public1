@@ -1,7 +1,10 @@
-﻿using AteaScraper.IServices;
+﻿using AteaScraper.Blobing;
+using AteaScraper.IServices;
+using AteaScraper.Logging;
+using AteaScraper.Mediator;
 using AteaScraper.Services;
-using Azure.Data.Tables;
-using Azure.Storage.Blobs;
+using AteaScraper.Validators;
+using FluentValidation;
 using Microsoft.Azure.Functions.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -16,25 +19,17 @@ namespace AteaScraper
             // Register HttpClient
             builder.Services.AddHttpClient();
 
-            // Register TableServiceClient and BlobContainerClient
-            builder.Services.AddSingleton(serviceProvider =>
-            {
-                var connectionString = "UseDevelopmentStorage=true"; // Update with your connection string
-                return new TableServiceClient(connectionString);
-            });
-
-            builder.Services.AddSingleton(serviceProvider =>
-            {
-                var connectionString = "UseDevelopmentStorage=true"; // Update with your connection string
-                var containerName = "atea";
-                return new BlobContainerClient(connectionString, containerName);
-            });
-
             // Register AzureStorageService
             builder.Services.AddScoped<IAzureStorageService, AzureStorageService>();
 
             // Register HttpClientService
             builder.Services.AddScoped<IHttpClientService, HttpClientService>();
+
+            builder.Services.AddSingleton<LogQueryHandler>();
+            builder.Services.AddSingleton<BlobQueryHandler>();
+            builder.Services.AddSingleton<IValidator<LogQueryRequest>, LogQueryValidator>();
+            builder.Services.AddSingleton<IMediator, Mediator.Mediator>();
         }
+
     }
 }
