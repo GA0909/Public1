@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02811872-567D-4D1E-8361-D608E10A8A65}|AteaScraper\\AteaScraper.csproj|C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\ateascraper\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02811872-567D-4D1E-8361-D608E10A8A65}|AteaScraper\\AteaScraper.csproj|c:\\users\\gatis\\desktop\\public1\\atea project\\ateascraper\\ateascraper\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02811872-567D-4D1E-8361-D608E10A8A65}|AteaScraper\\AteaScraper.csproj|solutionrelative:ateascraper\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02811872-567D-4D1E-8361-D608E10A8A65}|AteaScraper\\AteaScraper.csproj|c:\\users\\gatis\\desktop\\public1\\atea project\\ateascraper\\ateascraper\\services\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02811872-567D-4D1E-8361-D608E10A8A65}|AteaScraper\\AteaScraper.csproj|C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\ateascraper\\services\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02811872-567D-4D1E-8361-D608E10A8A65}|AteaScraper\\AteaScraper.csproj|solutionrelative:ateascraper\\services\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,6 +42,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Function1.cs",
+              "RelativeDocumentMoniker": "AteaScraper\\Function1.cs",
+              "ToolTip": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Function1.cs",
+              "RelativeToolTip": "AteaScraper\\Function1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:15:16.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AzureStorageService.cs",
               "DocumentMoniker": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Services\\AzureStorageService.cs",
@@ -50,8 +63,7 @@
               "RelativeToolTip": "AteaScraper\\Services\\AzureStorageService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T17:24:21.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T17:24:21.542Z"
             },
             {
               "$type": "Document",
@@ -63,8 +75,7 @@
               "RelativeToolTip": "AteaScraper\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T17:19:55.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T17:19:55.297Z"
             },
             {
               "$type": "Document",
@@ -76,21 +87,7 @@
               "RelativeToolTip": "AteaScraper\\AteaScraper.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-20T17:18:05.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Function1.cs",
-              "DocumentMoniker": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Function1.cs",
-              "RelativeDocumentMoniker": "AteaScraper\\Function1.cs",
-              "ToolTip": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Function1.cs",
-              "RelativeToolTip": "AteaScraper\\Function1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T17:15:16.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T17:18:05.274Z"
             }
           ]
         }
