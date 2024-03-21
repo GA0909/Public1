@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "AteaScraper": {
-      "commandName": "Project",
-      "commandLineArgs": "--port 7110",
-      "launchBrowser": false
-    }
-  }
-}
