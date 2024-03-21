@@ -3,9 +3,6 @@ using Azure.Data.Tables;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.WindowsAzure.Storage.Table;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using TableEntity = Azure.Data.Tables.TableEntity;
 

@@ -11,7 +11,6 @@ namespace AteaScraper
 {
     public static class Blobs
     {
-        
         [FunctionName("Blobs")]
         public static async Task<IActionResult> Run(
             [HttpTrigger(AuthorizationLevel.Function, "get", Route = null)] HttpRequest req,

@@ -2,7 +2,6 @@
 using Azure;
 using Azure.Data.Tables;
 using Azure.Storage.Blobs;
-using Microsoft.Extensions.Configuration;
 using System;
 using System.IO;
 using System.Threading.Tasks;
@@ -15,16 +14,15 @@ namespace AteaScraper.Services
         {
             try
             {
-
                 var serviceClient = new TableServiceClient("UseDevelopmentStorage=true");
                 var table = serviceClient.GetTableClient("atea");
                 await table.CreateIfNotExistsAsync();
 
                 var tableEntity = new TableEntity(partitionKey, rowKey)
-            {
-                { "Request", requestKey },
-                { "status", isSuccess }
-            };
+                {
+                    { "Request", requestKey },
+                    { "status", isSuccess }
+                };
 
                 await table.AddEntityAsync(tableEntity);
                 return true; // Return true if entity added successfully

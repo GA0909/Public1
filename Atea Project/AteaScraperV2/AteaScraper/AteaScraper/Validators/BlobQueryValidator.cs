@@ -1,11 +1,7 @@
 ﻿using AteaScraper.Blobing;
-using AteaScraper.Logging;
 using FluentValidation;
 using FluentValidation.Results;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -15,7 +11,7 @@ namespace AteaScraper.Validators
     {
         public bool Validate(BlobQueryRequest input)
         {
-            // Check if 'From' and 'To' parameters are not null or empty
+            // Check if not null or empty
             if (string.IsNullOrEmpty(input.BlobName))
             {
                 return false;

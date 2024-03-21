@@ -1,13 +1,7 @@
 ﻿using AteaScraper.Mediators;
 using AteaScraper.Validators;
-using Azure.Data.Tables;
 using Azure.Storage.Blobs;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading;
 using System.Threading.Tasks;
 
 namespace AteaScraper.Blobing

@@ -4,7 +4,6 @@ using AteaScraper.Logging;
 using AteaScraper.Mediators;
 using AteaScraper.Services;
 using AteaScraper.Validators;
-//using MediatR;
 using FluentValidation;
 using Microsoft.Azure.Functions.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection;
@@ -19,10 +18,8 @@ namespace AteaScraper
         {
             // Register HttpClient
             builder.Services.AddHttpClient();
-
             // Register AzureStorageService
             builder.Services.AddScoped<IAzureStorageService, AzureStorageService>();
-
             // Register HttpClientService
             builder.Services.AddScoped<IHttpClientService, HttpClientService>();
             // Register QueryHandlers
@@ -33,10 +30,7 @@ namespace AteaScraper
             builder.Services.AddSingleton<IValidator<BlobQueryRequest>, BlobQueryValidator>();
             // Register Mediator
             builder.Services.AddSingleton<IMediator, Mediator>();
-            //builder.Services.
             
-            // Register QueryHandlers
         }
-
     }
 }
