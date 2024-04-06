@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\ateascraper\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|solutionrelative:ateascraper\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|c:\\users\\gatis\\desktop\\public1\\atea project\\ateascraper\\ateascraper\\blobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|solutionrelative:ateascraper\\blobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\ateascraper\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|solutionrelative:ateascraper\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|c:\\users\\gatis\\desktop\\public1\\atea project\\ateascraper\\ateascraper\\validators\\logqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|solutionrelative:ateascraper\\validators\\logqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|c:\\users\\gatis\\desktop\\public1\\atea project\\ateascraper\\ateascraper\\validators\\blobqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|solutionrelative:ateascraper\\validators\\blobqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\ateascraper\\logging\\logqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|solutionrelative:ateascraper\\logging\\logqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|c:\\users\\gatis\\desktop\\public1\\atea project\\ateascraper\\ateascraper\\mediators\\mediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|solutionrelative:ateascraper\\mediators\\mediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|c:\\users\\gatis\\desktop\\public1\\atea project\\ateascraper\\ateascraper\\mediators\\irequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|solutionrelative:ateascraper\\mediators\\irequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|c:\\users\\gatis\\desktop\\public1\\atea project\\ateascraper\\ateascraper\\mediators\\imediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|solutionrelative:ateascraper\\mediators\\imediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|c:\\users\\gatis\\desktop\\public1\\atea project\\ateascraper\\ateascraper\\services\\httpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|solutionrelative:ateascraper\\services\\httpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\ateascraper\\services\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|solutionrelative:ateascraper\\services\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|c:\\users\\gatis\\desktop\\public1\\atea project\\ateascraper\\ateascraper\\logging\\logqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|solutionrelative:ateascraper\\logging\\logqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\ateascraper\\blobing\\blobqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|solutionrelative:ateascraper\\blobing\\blobqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\ateascraper\\blobing\\blobqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|solutionrelative:ateascraper\\blobing\\blobqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\ateascraper\\iservices\\ihttpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|solutionrelative:ateascraper\\iservices\\ihttpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\ateascraper\\iservices\\iazurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|solutionrelative:ateascraper\\iservices\\iazurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\ateascraper\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|solutionrelative:ateascraper\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\ateascraper\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03AF022-18CA-4FB4-9AAB-610E237431EB}|AteaScraper\\AteaScraper.csproj|solutionrelative:ateascraper\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogQueryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Validators\\LogQueryValidator.cs",
+              "RelativeDocumentMoniker": "AteaScraper\\Validators\\LogQueryValidator.cs",
+              "ToolTip": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Validators\\LogQueryValidator.cs",
+              "RelativeToolTip": "AteaScraper\\Validators\\LogQueryValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:53:15.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlobQueryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Validators\\BlobQueryValidator.cs",
+              "RelativeDocumentMoniker": "AteaScraper\\Validators\\BlobQueryValidator.cs",
+              "ToolTip": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Validators\\BlobQueryValidator.cs",
+              "RelativeToolTip": "AteaScraper\\Validators\\BlobQueryValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:53:09.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mediator.cs",
+              "DocumentMoniker": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Mediators\\Mediator.cs",
+              "RelativeDocumentMoniker": "AteaScraper\\Mediators\\Mediator.cs",
+              "ToolTip": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Mediators\\Mediator.cs",
+              "RelativeToolTip": "AteaScraper\\Mediators\\Mediator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:52:59.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Mediators\\IRequestHandler.cs",
+              "RelativeDocumentMoniker": "AteaScraper\\Mediators\\IRequestHandler.cs",
+              "ToolTip": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Mediators\\IRequestHandler.cs",
+              "RelativeToolTip": "AteaScraper\\Mediators\\IRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:52:53.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMediator.cs",
+              "DocumentMoniker": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Mediators\\IMediator.cs",
+              "RelativeDocumentMoniker": "AteaScraper\\Mediators\\IMediator.cs",
+              "ToolTip": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Mediators\\IMediator.cs",
+              "RelativeToolTip": "AteaScraper\\Mediators\\IMediator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:52:47.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blobs.cs",
+              "DocumentMoniker": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Blobs.cs",
+              "RelativeDocumentMoniker": "AteaScraper\\Blobs.cs",
+              "ToolTip": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Blobs.cs",
+              "RelativeToolTip": "AteaScraper\\Blobs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:51:38.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HttpClientService.cs",
+              "DocumentMoniker": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Services\\HttpClientService.cs",
+              "RelativeDocumentMoniker": "AteaScraper\\Services\\HttpClientService.cs",
+              "ToolTip": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Services\\HttpClientService.cs",
+              "RelativeToolTip": "AteaScraper\\Services\\HttpClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:51:22.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlobQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Blobing\\BlobQueryRequest.cs",
+              "RelativeDocumentMoniker": "AteaScraper\\Blobing\\BlobQueryRequest.cs",
+              "ToolTip": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Blobing\\BlobQueryRequest.cs",
+              "RelativeToolTip": "AteaScraper\\Blobing\\BlobQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T11:42:41.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BlobQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Blobing\\BlobQueryHandler.cs",
+              "RelativeDocumentMoniker": "AteaScraper\\Blobing\\BlobQueryHandler.cs",
+              "ToolTip": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Blobing\\BlobQueryHandler.cs",
+              "RelativeToolTip": "AteaScraper\\Blobing\\BlobQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T11:42:37.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Logging\\LogQueryRequest.cs",
+              "RelativeDocumentMoniker": "AteaScraper\\Logging\\LogQueryRequest.cs",
+              "ToolTip": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Logging\\LogQueryRequest.cs",
+              "RelativeToolTip": "AteaScraper\\Logging\\LogQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T11:42:18.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LogQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Logging\\LogQueryHandler.cs",
+              "RelativeDocumentMoniker": "AteaScraper\\Logging\\LogQueryHandler.cs",
+              "ToolTip": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Logging\\LogQueryHandler.cs",
+              "RelativeToolTip": "AteaScraper\\Logging\\LogQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T11:42:08.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAzureStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\IServices\\IAzureStorageService.cs",
+              "RelativeDocumentMoniker": "AteaScraper\\IServices\\IAzureStorageService.cs",
+              "ToolTip": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\IServices\\IAzureStorageService.cs",
+              "RelativeToolTip": "AteaScraper\\IServices\\IAzureStorageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T11:41:54.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Startup.cs",
+              "RelativeDocumentMoniker": "AteaScraper\\Startup.cs",
+              "ToolTip": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Startup.cs",
+              "RelativeToolTip": "AteaScraper\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T11:41:37.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Function1.cs",
+              "RelativeDocumentMoniker": "AteaScraper\\Function1.cs",
+              "ToolTip": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Function1.cs",
+              "RelativeToolTip": "AteaScraper\\Function1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T11:41:34.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\local.settings.json",
+              "RelativeDocumentMoniker": "AteaScraper\\local.settings.json",
+              "ToolTip": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\local.settings.json",
+              "RelativeToolTip": "AteaScraper\\local.settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-30T11:35:28.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IHttpClientService.cs",
+              "DocumentMoniker": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\IServices\\IHttpClientService.cs",
+              "RelativeDocumentMoniker": "AteaScraper\\IServices\\IHttpClientService.cs",
+              "ToolTip": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\IServices\\IHttpClientService.cs",
+              "RelativeToolTip": "AteaScraper\\IServices\\IHttpClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T11:41:55.137Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Log.cs",
+              "RelativeDocumentMoniker": "AteaScraper\\Log.cs",
+              "ToolTip": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Log.cs",
+              "RelativeToolTip": "AteaScraper\\Log.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T11:41:36.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AzureStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Services\\AzureStorageService.cs",
+              "RelativeDocumentMoniker": "AteaScraper\\Services\\AzureStorageService.cs",
+              "ToolTip": "C:\\Users\\gatis\\Desktop\\Public1\\Atea Project\\AteaScraper\\AteaScraper\\Services\\AzureStorageService.cs",
+              "RelativeToolTip": "AteaScraper\\Services\\AzureStorageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T11:35:32.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
