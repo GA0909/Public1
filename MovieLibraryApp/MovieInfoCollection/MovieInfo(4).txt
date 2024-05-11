@@ -1,0 +1,51 @@
+Title: Franklin
+Year: 1997–2006
+Rated: TV-Y
+Released: 03 Nov 1997
+Runtime: 1 min
+Genre: Animation, Comedy, Drama
+Director: N/A
+Writer: N/A
+Actors: Noah Reid, Leah Renee, Elizabeth Saunders
+Plot: A young turtle named Franklin learns social lessons as he grows up with his family and friends.
+Language: English
+Country: France, Canada, United States, Luxembourg
+Awards: N/A
+Poster: https://m.media-amazon.com/images/M/MV5BMGQwY2YzM2ItNDgxOC00NWMwLTgyZmMtNGEzNDI1ZGQ0YzgwXkEyXkFqcGdeQXVyODk1MjAxNzQ@._V1_SX300.jpg
+Ratings: 
+  Internet Movie Database: 6.4/10
+Metascore: N/A
+imdbRating: 6.4
+imdbVotes: 5,307
+imdbID: tt0203254
+Type: series
+DVD: 
+BoxOffice: 
+Production: 
+Website: 
+
+Title: Unfrosted: The Pop-Tart Story
+Year: 2024
+Rated: PG-13
+Released: 03 May 2024
+Runtime: 93 min
+Genre: Biography, Comedy, History
+Director: Jerry Seinfeld
+Writer: Spike Feresten, Barry Marder, Andy Robin
+Actors: Rachael Harris, Melissa McCarthy, Hugh Grant
+Plot: Michigan 1963, business rivals Kellogg's and Post compete to create a cake that could change breakfast forever.
+Language: English
+Country: United States
+Awards: N/A
+Poster: https://m.media-amazon.com/images/M/MV5BOGRlOWYyZjMtYzdhMy00NjUzLTlkMDktNjE1Y2ZjMjQxYjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg
+Ratings: 
+Metascore: N/A
+imdbRating: N/A
+imdbVotes: N/A
+imdbID: tt14914430
+Type: movie
+DVD: N/A
+BoxOffice: N/A
+Production: N/A
+Website: N/A
+

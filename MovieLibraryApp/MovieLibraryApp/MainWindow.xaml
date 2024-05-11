@@ -1,0 +1,29 @@
+﻿<Window x:Class="MovieLibraryApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Movie Library App" Height="500" Width="600"
+        Background="Black">
+    <Grid>
+        <StackPanel Orientation="Horizontal" Margin="0,378,0,0" HorizontalAlignment="Center" VerticalAlignment="Top" Width="580" Height="106">
+            <Button Content="Scan Selected Folder" Margin="20,20,20,20" Click="LaunchScan_Click" Background="#FFCAA85C" BorderBrush="Black" BorderThickness="2,2,2,2" Cursor="Arrow" FontFamily="Segoe UI Black" FontSize="18" Height="50" Width="250"/>
+            <Button Content="Launch Movie Library" Margin="20,20,20,20" Click="LaunchMovieLibrary_Click" Background="#FF479070" BorderBrush="#FF060606" FontSize="18" FontWeight="Bold" FontFamily="Arial Black" BorderThickness="2,2,2,2" Width="247" Height="50"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0,278,0,0" HorizontalAlignment="Center" VerticalAlignment="Top" Width="580" Height="106">
+            <Button x:Name ="SelectFolder" Content="Select Folder to Scan" Margin="20,20,20,20" Click="SelectFolder_Click" Background="#FFDAD5C8" BorderBrush="Black" BorderThickness="2,2,2,2" Cursor="Arrow" FontFamily="Segoe UI Black" FontSize="18" Height="50" Width="250"/>
+            <Button x:Name ="SelectLibrary" Content="Select Library" Margin="20,20,20,20" Click="Launch_Click" Background="#FF88C5AA" BorderBrush="#FF060606" FontSize="18" FontWeight="Bold" FontFamily="Arial Black" BorderThickness="2,2,2,2" Width="250" Height="50"/>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Margin="0,12,0,0" HorizontalAlignment="Center" VerticalAlignment="Top" Width="580" Height="250">
+            <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Disabled">
+                <TextBlock x:Name="ScanningTextBlock" Text="Scanning: ?" Margin="5" Height="30" Foreground="White" FontSize="20"/>
+            </ScrollViewer>
+            <TextBlock x:Name="FoundTextBlock" Text="Found: ?" Margin="5" Height="30" Foreground="White" FontSize="20"/>
+            <TextBlock x:Name="ExtractedTextBlock" Text="Extracted: ?" Margin="5" Height="30" Foreground="White" FontSize="20"/>
+            <TextBlock x:Name="ReceivedTextBlock" Text="Received: ?" Margin="5" Height="30" Foreground="White" FontSize="20"/>
+            <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Disabled">
+                <TextBlock x:Name="CreatedTextBlock" Text="Created: ?" Margin="5" Height="30" Foreground="White" FontSize="20"/>
+            </ScrollViewer>
+        </StackPanel>
+    </Grid>
+
+</Window>
+
